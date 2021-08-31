@@ -27,8 +27,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Layer_248.png",
-        "image_2": "shopify:\/\/shop_images\/Layer_248.png",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
